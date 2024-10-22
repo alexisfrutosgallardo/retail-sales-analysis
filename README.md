@@ -1,3 +1,19 @@
-# Introducción al proyecto
+# Retail Sales Analysis
 
-En este proyecto de curso, desarrollaremos un análisis integral de un conjunto de datos de ventas de una tienda de retail. El objetivo es que los estudiantes apliquen lo aprendido en las diferentes secciones del curso, desde la manipulación básica de datos con NumPy, pasando por el análisis y visualización de datos con Pandas, hasta el uso de técnicas de machine learning para realizar predicciones. Este proyecto será una excelente adición al portafolio de los estudiantes y les permitirá demostrar su competencia en varias áreas clave de la ciencia de datos.
+Este proyecto analiza y predice las ventas de una tienda de retail utilizando técnicas de ciencia de datos.
+
+## Estructura del Proyecto
+
+- `data/`: Contiene los archivos de datos.
+- `notebooks/`: Contiene los notebooks de Jupyter para el análisis.
+- `src/`: Contiene el código fuente del proyecto.
+- `README.md`: Este archivo.
+
+## Instrucciones de Instalación
+
+1. Clona el repositorio: `git clone https://github.com/tu_usuario/retail-sales-analysis.git`
+2. Instala las dependencias: `pip install -r requirements.txt`
+
+## Uso
+
+Ejecuta los notebooks de Jupyter en la carpeta `notebooks` para realizar el análisis de los datos.
